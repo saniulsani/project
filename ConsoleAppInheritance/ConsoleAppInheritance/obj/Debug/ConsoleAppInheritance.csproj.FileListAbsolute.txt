@@ -1,0 +1,7 @@
+C:\Users\HASIB\Dropbox\AIUB\24. Summer 2022-23\OOP-2\Projects\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\ConsoleAppInheritance.exe.config
+C:\Users\HASIB\Dropbox\AIUB\24. Summer 2022-23\OOP-2\Projects\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\ConsoleAppInheritance.exe
+C:\Users\HASIB\Dropbox\AIUB\24. Summer 2022-23\OOP-2\Projects\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\ConsoleAppInheritance.pdb
+C:\Users\HASIB\Dropbox\AIUB\24. Summer 2022-23\OOP-2\Projects\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\ConsoleAppInheritance.csprojAssemblyReference.cache
+C:\Users\HASIB\Dropbox\AIUB\24. Summer 2022-23\OOP-2\Projects\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\ConsoleAppInheritance.csproj.CoreCompileInputs.cache
+C:\Users\HASIB\Dropbox\AIUB\24. Summer 2022-23\OOP-2\Projects\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\ConsoleAppInheritance.exe
+C:\Users\HASIB\Dropbox\AIUB\24. Summer 2022-23\OOP-2\Projects\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\ConsoleAppInheritance.pdb
